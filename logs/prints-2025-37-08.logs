@@ -1,0 +1,13 @@
+16:31:37.794 [TestNG-tests-1] DEBUG tests.LoginTest - logging field got opened
+16:31:38.046 [TestNG-tests-1] DEBUG tests.LoginTest - Email id got enter
+16:31:39.049 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got closed
+16:31:39.811 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got launched
+16:31:41.107 [TestNG-tests-1] DEBUG tests.LoginTest - Navigated to application url
+16:31:41.189 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on myAccount Dropdown
+16:31:41.333 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got closed
+16:37:05.818 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got launched
+16:37:07.034 [TestNG-tests-1] DEBUG tests.LoginTest - Navigated to application url
+16:37:07.253 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on myAccount Dropdown
+16:37:07.661 [TestNG-tests-1] DEBUG tests.LoginTest - logging field got opened
+16:37:08.006 [TestNG-tests-1] DEBUG tests.LoginTest - Email id got enter
+16:37:08.188 [TestNG-tests-1] DEBUG tests.LoginTest - Password got enterd

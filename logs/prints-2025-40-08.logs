@@ -1,0 +1,13 @@
+16:37:08.869 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on login button
+16:37:08.930 [TestNG-tests-1] DEBUG tests.LoginTest - Login test got pass
+16:37:09.109 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got closed
+16:37:10.355 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got launched
+16:40:24.424 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got launched
+16:40:25.782 [TestNG-tests-1] DEBUG tests.LoginTest - Navigated to application url
+16:40:26.181 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on myAccount Dropdown
+16:40:26.750 [TestNG-tests-1] DEBUG tests.LoginTest - logging field got opened
+16:40:26.999 [TestNG-tests-1] DEBUG tests.LoginTest - Email id got enter
+16:40:27.108 [TestNG-tests-1] DEBUG tests.LoginTest - Password got enterd
+16:40:27.947 [TestNG-tests-1] DEBUG tests.LoginTest - Clicked on login button
+16:40:28.007 [TestNG-tests-1] DEBUG tests.LoginTest - Login test got pass
+16:40:28.182 [TestNG-tests-1] DEBUG tests.LoginTest - Browser got closed
