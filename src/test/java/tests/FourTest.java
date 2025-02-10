@@ -14,6 +14,8 @@ public class FourTest extends Base {
 	public WebDriver driver;
 	public void TestFour() throws IOException {
 		
+		System.out.println("Code has been updated");
+		
 		driver = intializeDricver();
 		System.out.println("this is test Four");
 		driver.get("https://www.google.com/");
