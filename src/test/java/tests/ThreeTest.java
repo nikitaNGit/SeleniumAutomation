@@ -14,6 +14,8 @@ public class ThreeTest extends Base {
 	
 	public void TestThree() throws IOException {
 		
+		System.out.println("This Testthree is updated");
+		
 		driver = intializeDricver();
 		driver.get("https://www.google.com/");
 		System.out.println("this is test Three");
