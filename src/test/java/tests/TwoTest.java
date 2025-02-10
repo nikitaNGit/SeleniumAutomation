@@ -12,7 +12,8 @@ import resources.Base;
 public class TwoTest extends Base{
 	WebDriver driver;
 	public void TestTwo() throws IOException {
-		
+
+		System.out.println("Nikita has updated code is");
 		driver = intializeDricver();
 		driver.get("https://www.google.com/");
 		System.out.println("this is test two");
