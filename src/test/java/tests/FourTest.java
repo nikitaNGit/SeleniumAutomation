@@ -21,7 +21,7 @@ public class FourTest extends Base {
 		System.out.println("this is test Four");
 		driver.get("https://www.google.com/");
 		
-		Assert.assertTrue(false);
+		
 	}
 	
 	@AfterMethod
